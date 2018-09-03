@@ -4,7 +4,7 @@ import React from 'react'
 
 const Title = () => {
   return (
-    <h1>Olá {this.props.name + ' ' + this.props.Lastname}</h1>
+    <h1>Teste {this.props.name + ' ' + this.props.Lastname}</h1>
   )
 }
 
